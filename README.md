@@ -18,11 +18,11 @@ Application for copying files and directories to a virtual machine for Windows w
 
 Minesweeper game with Tkinter and command line interfaces (minesweeper.py)
 
-<img title="Screenshot from Windows 10" src="https://github.com/lestec-al/games-python/raw/main/data/minesweeper_tk_pic.png" width="270" height="290"/>  <img title="Screenshot from Windows 10" src="https://github.com/lestec-al/games-python/raw/main/data/minesweeper_cl_pic1.png" width="270" height="290"/>
+<img title="Screenshot from Windows 10" src="https://github.com/lestec-al/apps-python/raw/main/data/minesweeper_tk_pic.png" width="270" height="290"/>  <img title="Screenshot from Windows 10" src="https://github.com/lestec-al/apps-python/raw/main/data/minesweeper_cl_pic1.png" width="270" height="290"/>
 
 Tic-Tac-Toe game with Tkinter and command line interfaces (tic_tac_toe.py)
 
-<img title="Screenshot from Windows 10" src="https://github.com/lestec-al/games-python/raw/main/data/tic_tac_toe_tk_pic.png" width="170" height="180"/>  <img title="Screenshot from Windows 10" src="https://github.com/lestec-al/games-python/raw/main/data/tic_tac_toe_cl_pic1.png" width="170" height="180"/>
+<img title="Screenshot from Windows 10" src="https://github.com/lestec-al/apps-python/raw/main/data/tic_tac_toe_tk_pic.png" width="170" height="180"/>  <img title="Screenshot from Windows 10" src="https://github.com/lestec-al/apps-python/raw/main/data/tic_tac_toe_cl_pic1.png" width="170" height="180"/>
 
 
 # Installation and Launch
