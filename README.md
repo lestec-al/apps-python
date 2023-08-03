@@ -32,4 +32,4 @@ Tic-Tac-Toe game with Tkinter and command line interfaces (tic_tac_toe.py)
 - see how to run python commands on your OS. For Windows 10 it may look like that:
     - open a powershell and select the project folder through it (eg. 'cd <path/to/folder>')
     - (if it used in app you want to run) install PySimpleGUI by typing command 'pip install PySimpleGUI'
-    - for launch, type command 'python minesweeper.py' (or other ***.py file)
+    - for launch, type command 'python <name-of-python-file>.py' (eg. minesweeper.py)
